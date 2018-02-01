@@ -1,0 +1,10 @@
+.app-header {
+  background: #9b4dca;
+  color: #fff;
+}
+
+.AppHeader__title {
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0
+}

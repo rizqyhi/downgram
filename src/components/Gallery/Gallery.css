@@ -1,0 +1,9 @@
+.Gallery {
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 816px
+}
+
+.Gallery .mdc-grid-list__tiles {
+  justify-content: center
+}
